@@ -2,4 +2,4 @@ library(data.table)
 
 data(mtcars)
 
-plot(mtcars$mpg)
+plot(mtcars$hp)
